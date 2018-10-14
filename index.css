@@ -1,7 +1,16 @@
-body{color: #FF00FF;
-background-color: black;
+body{color: black;
+background-color: #FF00FF;
 font-family: arial black;
 }
-h1{ color:red;
-
+h1{ color:black; 
+border: 10px dotted black;
+padding: 20px;
+margin: 50px;
+margin-left: 2px;
+border-radius: 30px;
+}
+img{ border-radius: 300px; width: 200px;}
+li{ border:5px solid;
+margin-bottom: 15px;
+padding-bottom: 15px;
 }
